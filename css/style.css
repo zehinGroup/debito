@@ -1,0 +1,126 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.basdaky{
+    display: flex;
+    justify-content: center;
+  
+}
+
+.dasky {
+    margin-top: 20px;
+    display: block;
+    justify-content: center;
+}
+
+.debito{
+    display: flex;
+    justify-content: center;
+    
+}
+
+h1{
+    font-family: "Jersey 25", sans-serif;
+}
+
+.blok {
+    width: 360px;
+    height: 120px;
+    display: flex;
+    object-fit: fill;
+    justify-content: center;
+}
+
+.blok img{
+    width: 350px;
+    height: 120px;
+    object-fit: fill;
+    border-radius: 8px;
+}
+
+.blok1 {
+    width: 360px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 50px;
+    background-color: #FF8417;
+    box-shadow: 0px 1px 7px 0.2px #000000;
+    margin-top: 20px;
+
+}
+
+.blok2 {
+    width: 360px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 50px;
+    background-color: #b1b1b1e4;
+    box-shadow: 0px 0.5px 5px 0.1px #000;
+    margin-top: 20px;
+}
+
+.blok3 {
+    width: 360px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 50px;
+    background-color: #c6c6c68a;
+    box-shadow: 0px 0.5px 5px 0.1px #000;
+    margin-top: 20px;
+}
+
+.blok4 {
+    width: 360px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 50px;
+    background-color: #c6c6c68a;
+    box-shadow: 0px 0.5px 5px 0.1px #000;
+    margin-top: 20px;
+}
+
+.blok5 {
+    width: 360px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 50px;
+    background-color: #c6c6c68a;
+    box-shadow: 0px 0.5px 5px 0.1px #000;
+    margin-top: 20px;
+}
+
+
